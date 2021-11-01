@@ -1,0 +1,14 @@
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\bin\Debug\netcoreapp3.1\Exercicio trabalhador contrato.exe
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\bin\Debug\netcoreapp3.1\Exercicio trabalhador contrato.deps.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\bin\Debug\netcoreapp3.1\Exercicio trabalhador contrato.runtimeconfig.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\bin\Debug\netcoreapp3.1\Exercicio trabalhador contrato.runtimeconfig.dev.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\bin\Debug\netcoreapp3.1\Exercicio trabalhador contrato.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\bin\Debug\netcoreapp3.1\Exercicio trabalhador contrato.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\obj\Debug\netcoreapp3.1\Exercicio trabalhador contrato.csproj.AssemblyReference.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\obj\Debug\netcoreapp3.1\Exercicio trabalhador contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\obj\Debug\netcoreapp3.1\Exercicio trabalhador contrato.AssemblyInfoInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\obj\Debug\netcoreapp3.1\Exercicio trabalhador contrato.AssemblyInfo.cs
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\obj\Debug\netcoreapp3.1\Exercicio trabalhador contrato.csproj.CoreCompileInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\obj\Debug\netcoreapp3.1\Exercicio trabalhador contrato.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\obj\Debug\netcoreapp3.1\Exercicio trabalhador contrato.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico-Calculo-Horas-Trabalhador\Exercicio trabalhador contrato\obj\Debug\netcoreapp3.1\Exercicio trabalhador contrato.genruntimeconfig.cache
