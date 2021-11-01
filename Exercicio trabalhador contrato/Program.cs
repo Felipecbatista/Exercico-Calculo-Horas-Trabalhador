@@ -25,10 +25,10 @@ namespace Exercicio_trabalhador_contrato
             Console.Write("How many contracts to this worker? ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i =1; i<n; i++)
+            for (int i =1; i<=n; i++)
             {
                 Console.WriteLine($"Enter #{i} contract data: ");
-                Console.Write("Date (DD/MM/YYY)");
+                Console.Write("Date (DD/MM/YYY): ");
                 DateTime date = DateTime.Parse(Console.ReadLine());
                 Console.Write("Value per our: ");
                 double valuePerHour = double.Parse(Console.ReadLine());
